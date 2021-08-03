@@ -1,0 +1,5 @@
+A = input("enter the no1 : ")
+B =input ("enter the no2 : ")
+A=int(A)
+B=int(B)
+print(A+B)
